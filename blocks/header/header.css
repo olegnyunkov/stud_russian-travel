@@ -1,4 +1,7 @@
 .header {
+    outline: palegreen 1px solid;
+    width: 100%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
