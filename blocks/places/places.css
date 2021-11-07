@@ -1,0 +1,9 @@
+.places {
+    margin: 92px auto 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(8, minmax(152px 460px));
+    max-width: 984px;
+    outline: springgreen 1px solid;
+    gap: 48px 40px;
+}
