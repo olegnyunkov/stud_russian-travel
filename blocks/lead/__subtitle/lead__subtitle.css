@@ -1,0 +1,9 @@
+.lead__subtitle {
+    outline: springgreen 1px solid;
+    font-size: 30px;
+    line-height: 36px;
+    font-weight: normal;
+    text-align: center;
+    max-width: 640px;
+    margin: 32px auto 0;
+}

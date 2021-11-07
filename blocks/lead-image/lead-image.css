@@ -1,5 +1,5 @@
-.lead {
+.lead-image {
     display: flex;
-    outline: springgreen 1px solid;
+    margin: 64px auto 0;
     flex-direction: column;
 }
