@@ -26,3 +26,10 @@
 @import url(../blocks/places-web/__link/places-web__link.css);
 @import url(../blocks/places-text/places-text.css);
 @import url(../blocks/places-text/__paragraph/places-text__paragraph.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__pic/cover__pic.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__text/cover__text.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__credit/footer__credit.css);

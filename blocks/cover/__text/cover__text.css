@@ -1,0 +1,12 @@
+.cover__text {
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: normal;
+    max-width: 360px;
+    position: absolute;
+    left: 0;
+    top: 60%;
+    right: 0;
+    margin: auto;
+    text-align: center;
+}
