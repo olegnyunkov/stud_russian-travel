@@ -1,6 +1,7 @@
 .cover__pic {
     max-width: 1184px;
     object-fit: contain;
+    width: 100%;
 }
 
 .cover__pic:hover {

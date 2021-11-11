@@ -1,5 +1,5 @@
 .intro {
-    width: 984px;
+    max-width: 984px;
     display: flex;
     flex-direction: column;
     outline: greenyellow 1px solid;
