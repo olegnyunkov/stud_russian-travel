@@ -7,3 +7,22 @@
     outline: springgreen 1px solid;
     gap: 48px 40px;
 }
+
+@media screen and (max-width: 1024px) {
+    .places {
+        max-width: 928px;
+    }    
+}
+
+@media screen and (max-width: 768px) {
+    .places {
+        max-width: 720px;
+    }    
+}
+
+@media screen and (max-width: 320px) {
+    .places {
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(20, minmax(152px 460px));
+    }    
+}

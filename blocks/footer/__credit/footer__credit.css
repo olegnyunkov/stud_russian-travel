@@ -4,3 +4,10 @@
     font-weight: normal;
     margin: 0 0 0 auto;
 }
+
+@media screen and (max-width: 320px) {
+    .footer__credit {
+        flex-direction: column;
+        margin: 48px 0 0 16px;
+    }    
+}

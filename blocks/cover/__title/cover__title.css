@@ -5,8 +5,28 @@
     max-width: 560px;
     position: absolute;
     left: 0;
-    top: 33%;
+    top: 245px;
     right: 0;
     margin: auto;
     text-align: center;
+}
+
+@media screen and (max-width: 1024px) {
+    .cover__title {
+        top: 195px;
+    }    
+}
+
+@media screen and (max-width: 768px) {
+    .cover__title {
+        top: 115px;
+    }    
+}
+
+@media screen and (max-width: 320px) {
+    .cover__title {
+        top: 33px;
+        font-size: 32px;
+        line-height: 35px;
+    }    
 }
