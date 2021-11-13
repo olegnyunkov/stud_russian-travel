@@ -4,3 +4,11 @@
     font-weight: normal;
     margin: 0 0 26px;
 }
+
+@media screen and (max-width: 768px) {
+    .places-text__paragraph {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    
+}

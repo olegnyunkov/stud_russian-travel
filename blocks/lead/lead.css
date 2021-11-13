@@ -2,4 +2,6 @@
     display: flex;
     outline: springgreen 1px solid;
     flex-direction: column;
+    max-width: 984px;
+    margin: 0 auto;
 }

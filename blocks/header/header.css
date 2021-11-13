@@ -1,7 +1,8 @@
 .header {
     outline: palegreen 1px solid;
-    width: 100%;
+    max-width: 1184px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 28px auto 0;
 }
