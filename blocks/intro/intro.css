@@ -2,7 +2,6 @@
     max-width: 984px;
     display: flex;
     flex-direction: column;
-    outline: greenyellow 1px solid;
     margin: 0 auto;
     align-items: flex-start;
 }
