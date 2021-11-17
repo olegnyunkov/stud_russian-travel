@@ -1,5 +1,7 @@
-.places-web {
+.places__web {
     display: flex;
     flex-direction: column;
     justify-content: end;
 }
+
+

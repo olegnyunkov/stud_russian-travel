@@ -1,4 +1,5 @@
 .places__pic {
     width: 100%;    
     object-fit: contain;
+    /* margin-top: 32px; */
 }

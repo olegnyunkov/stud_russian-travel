@@ -1,23 +1,24 @@
-.places {
-    margin: 92px auto 0;
-    max-width: 984px;
+.footer__menu {
+    display: flex;
+    margin: 92px auto 24px;
+    max-width: 1184px;
 }
 
 @media screen and (max-width: 1279px) {
-    .places {
+    .footer__menu {
         max-width: 928px;
     }    
 }
 
 @media screen and (max-width: 1023px) {
-    .places {
+    .footer__menu {
         max-width: 720px;
-        margin-top: 88px;
     }    
 }
 
 @media screen and (max-width: 767px) {
-    .places {
-       margin-top: 64px;
+    .footer__menu {
+        flex-direction: column;
+        margin: 0;
     }    
 }
